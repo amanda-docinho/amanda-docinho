@@ -1,0 +1,4 @@
+- 👋 Oi, meu nome é @amanda-docinho
+- 👀 eu estou interessado em aprender novas linguagens 
+- meu contato para email: amanda.weberdo.nascimento@escola.pr.gov.br
+- 🌱 eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
